@@ -1,0 +1,20 @@
+Start testing: Nov 19 21:59 Фінляндія (зима)
+----------------------------------------------------------
+1/1 Testing: lab9_tests
+1/1 Test: lab9_tests
+Command: "D:/РЈРЅС–РІРµСЂСЃРёС‚РµС‚/С–РЅС„РѕСЂРјР°С‚РёРєР°/РўРџРџ/Р›Р  9/build/lab9_tests.exe"
+Directory: D:/РЈРЅС–РІРµСЂСЃРёС‚РµС‚/С–РЅС„РѕСЂРјР°С‚РёРєР°/РўРџРџ/Р›Р  9/build
+"lab9_tests" start time: Nov 19 21:59 Фінляндія (зима)
+Output:
+----------------------------------------------------------
+Sending email notification about the new book: Test Title
+All tests passed.
+<end of output>
+Test time =   0.09 sec
+----------------------------------------------------------
+Test Passed.
+"lab9_tests" end time: Nov 19 21:59 Фінляндія (зима)
+"lab9_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 19 21:59 Фінляндія (зима)

@@ -1,0 +1,6 @@
+D:/Університет/інформатика/ТПП/ЛР 9/build/CMakeFiles/lab9.dir
+D:/Університет/інформатика/ТПП/ЛР 9/build/CMakeFiles/lab9_demo.dir
+D:/Університет/інформатика/ТПП/ЛР 9/build/CMakeFiles/lab9_tests.dir
+D:/Університет/інформатика/ТПП/ЛР 9/build/CMakeFiles/test.dir
+D:/Університет/інформатика/ТПП/ЛР 9/build/CMakeFiles/edit_cache.dir
+D:/Університет/інформатика/ТПП/ЛР 9/build/CMakeFiles/rebuild_cache.dir

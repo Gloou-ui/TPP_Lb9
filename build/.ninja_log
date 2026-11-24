@@ -1,0 +1,12 @@
+# ninja log v7
+16	667	8168215938515692	CMakeFiles/lab9.dir/Book.cpp.obj	3b05079541a79727
+30	742	8168215938583667	CMakeFiles/lab9.dir/ConsoleNotificationService.cpp.obj	2990edc8cab8ea9e
+79	761	8168215939137081	CMakeFiles/lab9.dir/FractionApproximator.cpp.obj	fc61f73f00f37321
+45	774	8168215938797084	CMakeFiles/lab9.dir/Rational.cpp.obj	e7a744081530f780
+36	856	8168215938712224	CMakeFiles/lab9.dir/Library.cpp.obj	4faa7c359576f401
+22	857	8168215938515692	CMakeFiles/lab9.dir/InMemoryBookRepository.cpp.obj	c4ef989ce242c4
+85	912	8168215939206078	CMakeFiles/lab9_demo.dir/main.cpp.obj	79cca4275e900266
+92	997	8168215939270529	CMakeFiles/lab9_tests.dir/tests.cpp.obj	cb5e86b5fa01e8f5
+857	1225	8168215946915332	liblab9.a	c87f2dee1cdb77a6
+1235	1398	8168215950704660	lab9_tests.exe	50a931e8a487365e
+1227	1398	8168215950616558	lab9_demo.exe	49be4143438bb2b0

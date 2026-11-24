@@ -1,0 +1,28 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run Lab 9 programs",
+			"type": "shell",
+			"command": "powershell.exe",
+			"args": [
+				"-NoExit",
+				"-Command",
+				"Set-Location 'D:\\Університет\\інформатика\\ТПП\\ЛР 9'; Write-Host '=== LAB 9 TESTS ===' -ForegroundColor Cyan; .\\build\\lab9_tests.exe; Write-Host '=== LAB 9 DEMO ===' -ForegroundColor Cyan; .\\build\\lab9_demo.exe; Write-Host '=== COMPLETED ===' -ForegroundColor Green"
+			],
+			"isBackground": false,
+			"problemMatcher": []
+		},
+		{
+			"label": "Run Lab 9 cleanly",
+			"type": "shell",
+			"command": "cmd.exe",
+			"args": [
+				"/k",
+				"cd /d \"D:\\Університет\\інформатика\\ТПП\\ЛР 9\" && echo === LAB 9 TESTS === && build\\lab9_tests.exe && echo. && echo === LAB 9 DEMO === && build\\lab9_demo.exe && echo. && echo === COMPLETED ==="
+			],
+			"isBackground": false,
+			"problemMatcher": []
+		}
+	]
+}
